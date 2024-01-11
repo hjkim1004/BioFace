@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.a2e812e4.css",
-    "main.js": "./static/js/main.08570e52.js",
+    "main.js": "./static/js/main.117a890d.js",
     "static/js/787.e4c74a42.chunk.js": "./static/js/787.e4c74a42.chunk.js",
     "static/media/NotoSansSC-Light.ttf": "./static/media/NotoSansSC-Light.fd396930a9d5b867d653.ttf",
     "static/media/NotoSansSC-Regular.ttf": "./static/media/NotoSansSC-Regular.b53faedec5edbc4e93e4.ttf",
@@ -29,11 +29,11 @@
     "static/media/NotoSans-Light.ttf": "./static/media/NotoSans-Light.9128d88741196a8cc94e.ttf",
     "index.html": "./index.html",
     "main.a2e812e4.css.map": "./static/css/main.a2e812e4.css.map",
-    "main.08570e52.js.map": "./static/js/main.08570e52.js.map",
+    "main.117a890d.js.map": "./static/js/main.117a890d.js.map",
     "787.e4c74a42.chunk.js.map": "./static/js/787.e4c74a42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2e812e4.css",
-    "static/js/main.08570e52.js"
+    "static/js/main.117a890d.js"
   ]
 }
