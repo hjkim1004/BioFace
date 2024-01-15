@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.a2e812e4.css",
-    "main.js": "./static/js/main.117a890d.js",
-    "static/js/787.e4c74a42.chunk.js": "./static/js/787.e4c74a42.chunk.js",
+    "main.css": "./static/css/main.439381f9.css",
+    "main.js": "./static/js/main.883f9be2.js",
+    "static/js/238.93c04d2a.chunk.js": "./static/js/238.93c04d2a.chunk.js",
+    "static/js/787.8830e5f7.chunk.js": "./static/js/787.8830e5f7.chunk.js",
+    "static/js/490.5651b1d6.chunk.js": "./static/js/490.5651b1d6.chunk.js",
     "static/media/NotoSansSC-Light.ttf": "./static/media/NotoSansSC-Light.fd396930a9d5b867d653.ttf",
     "static/media/NotoSansSC-Regular.ttf": "./static/media/NotoSansSC-Regular.b53faedec5edbc4e93e4.ttf",
     "static/media/NotoSansSC-Thin.ttf": "./static/media/NotoSansSC-Thin.fb77a2a30f2ded2da6c6.ttf",
@@ -27,13 +29,18 @@
     "static/media/NotoSans-Regular.ttf": "./static/media/NotoSans-Regular.bfc139fbdd66282ccfe7.ttf",
     "static/media/NotoSans-Medium.ttf": "./static/media/NotoSans-Medium.6c06fbdce5510309be38.ttf",
     "static/media/NotoSans-Light.ttf": "./static/media/NotoSans-Light.9128d88741196a8cc94e.ttf",
+    "static/media/github.svg": "./static/media/github.6fa18895f6e6c7772cab7049f7e05f59.svg",
+    "static/media/velog.svg": "./static/media/velog.49697a3a9f831b709a624d9b68902ce6.svg",
     "index.html": "./index.html",
-    "main.a2e812e4.css.map": "./static/css/main.a2e812e4.css.map",
-    "main.117a890d.js.map": "./static/js/main.117a890d.js.map",
-    "787.e4c74a42.chunk.js.map": "./static/js/787.e4c74a42.chunk.js.map"
+    "static/media/gmail.svg": "./static/media/gmail.cf6e9da6207069eaa596237538127bcb.svg",
+    "main.439381f9.css.map": "./static/css/main.439381f9.css.map",
+    "main.883f9be2.js.map": "./static/js/main.883f9be2.js.map",
+    "238.93c04d2a.chunk.js.map": "./static/js/238.93c04d2a.chunk.js.map",
+    "787.8830e5f7.chunk.js.map": "./static/js/787.8830e5f7.chunk.js.map",
+    "490.5651b1d6.chunk.js.map": "./static/js/490.5651b1d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2e812e4.css",
-    "static/js/main.117a890d.js"
+    "static/css/main.439381f9.css",
+    "static/js/main.883f9be2.js"
   ]
 }
