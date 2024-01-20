@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.f9d6ffa3.css",
-    "main.js": "./static/js/main.42e6b982.js",
+    "main.css": "./static/css/main.b5a3c822.css",
+    "main.js": "./static/js/main.de9ce784.js",
     "static/js/238.93c04d2a.chunk.js": "./static/js/238.93c04d2a.chunk.js",
     "static/js/787.8830e5f7.chunk.js": "./static/js/787.8830e5f7.chunk.js",
     "static/js/490.5651b1d6.chunk.js": "./static/js/490.5651b1d6.chunk.js",
@@ -30,17 +30,17 @@
     "static/media/NotoSans-Medium.ttf": "./static/media/NotoSans-Medium.6c06fbdce5510309be38.ttf",
     "static/media/NotoSans-Light.ttf": "./static/media/NotoSans-Light.9128d88741196a8cc94e.ttf",
     "static/media/github.svg": "./static/media/github.6fa18895f6e6c7772cab7049f7e05f59.svg",
-    "static/media/velog.svg": "./static/media/velog.49697a3a9f831b709a624d9b68902ce6.svg",
     "index.html": "./index.html",
+    "static/media/velog.svg": "./static/media/velog.49697a3a9f831b709a624d9b68902ce6.svg",
     "static/media/gmail.svg": "./static/media/gmail.cf6e9da6207069eaa596237538127bcb.svg",
-    "main.f9d6ffa3.css.map": "./static/css/main.f9d6ffa3.css.map",
-    "main.42e6b982.js.map": "./static/js/main.42e6b982.js.map",
+    "main.b5a3c822.css.map": "./static/css/main.b5a3c822.css.map",
+    "main.de9ce784.js.map": "./static/js/main.de9ce784.js.map",
     "238.93c04d2a.chunk.js.map": "./static/js/238.93c04d2a.chunk.js.map",
     "787.8830e5f7.chunk.js.map": "./static/js/787.8830e5f7.chunk.js.map",
     "490.5651b1d6.chunk.js.map": "./static/js/490.5651b1d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9d6ffa3.css",
-    "static/js/main.42e6b982.js"
+    "static/css/main.b5a3c822.css",
+    "static/js/main.de9ce784.js"
   ]
 }
